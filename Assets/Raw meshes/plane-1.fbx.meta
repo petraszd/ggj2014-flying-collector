@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: 96cc8cc556738054baa725b47938611a
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: aileron
+    100002: blade
+    100004: body
+    100006: body_2
+    100008: cabin
+    100010: elevator
+    100012: Flap
+    100014: //RootNode
+    100016: propeler
+    100018: rubber
+    100020: stabilizer
+    100022: tail
+    100024: Vertical_stabilizer
+    100026: wing
+    100028: Wings
+    100030: blade_2
+    100032: blade_3
+    100034: cap
+    100036: propeller
+    400000: aileron
+    400002: blade
+    400004: body
+    400006: body_2
+    400008: cabin
+    400010: elevator
+    400012: Flap
+    400014: //RootNode
+    400016: propeler
+    400018: rubber
+    400020: stabilizer
+    400022: tail
+    400024: Vertical_stabilizer
+    400026: wing
+    400028: Wings
+    400030: blade_2
+    400032: blade_3
+    400034: cap
+    400036: propeller
+    2300000: aileron
+    2300002: blade
+    2300004: body_2
+    2300006: cabin
+    2300008: elevator
+    2300010: Flap
+    2300012: rubber
+    2300014: stabilizer
+    2300016: Vertical_stabilizer
+    2300018: wing
+    2300020: blade_2
+    2300022: blade_3
+    2300024: cap
+    3300000: aileron
+    3300002: blade
+    3300004: body_2
+    3300006: cabin
+    3300008: elevator
+    3300010: Flap
+    3300012: rubber
+    3300014: stabilizer
+    3300016: Vertical_stabilizer
+    3300018: wing
+    3300020: blade_2
+    3300022: blade_3
+    3300024: cap
+    4300000: blade
+    4300002: Flap
+    4300004: aileron
+    4300006: wing
+    4300008: elevator
+    4300010: stabilizer
+    4300012: rubber
+    4300014: Vertical_stabilizer
+    4300016: cabin
+    4300018: body_2
+    4300020: blade_2
+    4300022: blade_3
+    4300024: cap
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 0
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 

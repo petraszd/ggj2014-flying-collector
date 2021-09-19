@@ -1,0 +1,3 @@
+- Apribojimas, kad neišskristum už ribų arba amžinai skristi
+- FishEye
+- Remove Flying out
